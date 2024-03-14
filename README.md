@@ -123,6 +123,11 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
+![exp2](https://github.com/21002624/lifecyclemethods/assets/113762183/0be028c1-c42b-43aa-b8b8-1d3399176493)
+![exp2(1)](https://github.com/21002624/lifecyclemethods/assets/113762183/568577e2-1a2d-4a0e-8879-c6c5cd1f7854)
+![exp(2)](https://github.com/21002624/lifecyclemethods/assets/113762183/e9542cbc-ed7d-48f2-aa5b-e6dc6d5386c5)
+
+
 
 
 ## RESULT
